@@ -1,6 +1,7 @@
 # VoidBoard
 
-<img width="865" height="682" alt="Screenshot 2026-06-10 125101" src="https://github.com/user-attachments/assets/d9964047-754b-4a05-8eea-43b302dce30b" alt="VoidBoard"/>
+<img width="1130" height="707" alt="Screenshot 2026-06-10 163523" src="https://github.com/user-attachments/assets/c95e0ad2-08af-49e2-80cc-7e04293336fb" alt="VoidBoard"/>
+
 
 
 A macropad with 9 keys, 128x32 OLED, a rotary encoder. Based off the game: Hollow Knight.
