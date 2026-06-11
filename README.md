@@ -1,5 +1,9 @@
 # VoidBoard
 
+<img width="865" height="682" alt="Screenshot 2026-06-10 125101" src="https://github.com/user-attachments/assets/2ec39daa-48dc-41a0-ba99-e630e746f10b" />
+
+Image of Casing
+
 <img width="1130" height="707" alt="Screenshot 2026-06-10 163523" src="https://github.com/user-attachments/assets/c95e0ad2-08af-49e2-80cc-7e04293336fb" alt="VoidBoard"/>
 
 Image of VoidBoard Design
