@@ -12,7 +12,8 @@ Image of VoidBoard Design
 
 Image of VoidBoard Schematic
 
-<img width="935" height="792" alt="Screenshot 2026-06-10 164153" src="https://github.com/user-attachments/assets/e3ef0f64-aa36-4662-abf5-de5cdc02d56e" />
+<img width="925" height="811" alt="image" src="https://github.com/user-attachments/assets/58fc6e0d-d3c4-4388-8be3-5e7a9e1fde21" />
+
 
 Image of VoidBoard PCB
 
